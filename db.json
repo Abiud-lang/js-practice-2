@@ -1,0 +1,38 @@
+{
+    "burgers": [
+      {
+        "id": 1,
+        "name": "Classic Burger",
+        "description": "A classic beef burger with lettuce, tomato, and our special sauce.",
+        "price": 5.99,
+        "category": "beef",
+        "image": "https://images.unsplash.com/photo-1543392765-620e968d2162?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmVlZiUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 2,
+        "name": "Cheeseburger",
+        "description": "A juicy beef burger with melted cheese, pickles, and ketchup.",
+        "price": 6.49,
+        "category": "beef",
+        "image": "https://images.unsplash.com/photo-1562817981-221763b0c0e5?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlZXNlJTIwYnVyZ2VyfGVufDB8fDB8fHww"
+      },
+      {
+        "id": 3,
+        "name": "Veggie Burger",
+        "description": "A delicious veggie patty with lettuce, tomato, and avocado.",
+        "price": 5.49,
+        "category": "vegetarian",
+        "image": "https://images.unsplash.com/photo-1521305916504-4a1121188589?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnaWUlMjBidXJnZXJ8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "id": 4,
+        "name": "Chicken Burger",
+        "description": "A crispy chicken fillet with lettuce, mayo, and pickles.",
+        "price": 6.99,
+        "category": "chicken",
+        "image": "https://plus.unsplash.com/premium_photo-1675864532183-8f37e8834db5?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D"
+      }
+    ]
+   
+  }
+  

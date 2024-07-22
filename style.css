@@ -1,0 +1,37 @@
+body {
+    margin:0;
+    padding:0;
+    background: #dedede;
+    }
+
+    h1{
+        color: chocolate;
+        text-align: center;
+    }
+    .image{
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+    }
+    .content{
+        display: flex;
+        padding: 50px;
+        flex-wrap: wrap;
+        
+        justify-content: space-between;
+        text-align: center;
+        border: black;
+        
+    }
+    .food{
+        box-shadow:0 5px 10px #888888;
+        border-radius: 20px;
+        
+    }
+    .button{
+        font-size: 15px;
+        border-radius: 5px;
+        background: black;
+        color: chocolate;
+    }
+    
